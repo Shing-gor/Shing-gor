@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eason Chen
-- 🌱 I’m currently learning Data Science in UNSW, graduating 2025.
+- 🌱 I’m currently learning Data Science in UNSW Sydney, graduating 2025.
 - 💞️ I will be posting projects here.
 - 📫 How to reach me eashing68@gmail.com
 - 😄 Pronouns: He/him
