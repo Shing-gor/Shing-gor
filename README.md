@@ -3,7 +3,7 @@
 - 💞️ I will be posting projects here.
 - 📫 How to reach me eashing68@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am able to read and analyse astrological natal chart.
+- ⚡ Fun fact: I read and analyse astrological natal chart.
 
 <!---
 Shing-gor/Shing-gor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
