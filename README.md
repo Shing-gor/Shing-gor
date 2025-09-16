@@ -1,11 +1,10 @@
 ## 👋 Hi, I’m Eason (he/him)
-🌱 graduate with BDataSci in 2025
-🌱 First place winner at Atlassian Corss-Uni Datathon 2025
+🌱 **First place winner at Atlassian Corss-Uni Datathon 2025** \
+🌱 graduate with Bachelor in Data Science 
 
-Experience in ETL pipelines, DA, BI, and cloud services
-Looking for DE, DA, BI roles in Sydney
-📫 feel free to reach me via eashing68@gmail.com
-⚡
+⚡ Project Experience in **ETL pipelines, DA, BI, and cloud services** \
+⚡ Looking for **DE, DA, BI** roles in NSW, ACT \
+⚡ feel free to reach me via eashing68@gmail.com
 
 
 ## 💻 Tech Stack:
