@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Eason (he/him)
-🌱 3rd year Data Science student in UNSW Sydney, graduating 2025.
-First place winner at Atlassian Corss-Uni Datathon 2025
+🌱 graduate with BDataSci in 2025
+🌱 First place winner at Atlassian Corss-Uni Datathon 2025
 
 Experience in ETL pipelines, DA, BI, and cloud services
 Looking for DE, DA, BI roles in Sydney
