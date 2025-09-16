@@ -2,9 +2,12 @@
 🌱 **First place winner at Atlassian Corss-Uni Datathon 2025** \
 🌱 graduate with Bachelor in Data Science 
 
-⚡ Project Experience in **ETL pipelines, DA, BI, and cloud services** \
 ⚡ Looking for **DE, DA, BI** roles in NSW, ACT \
 ⚡ feel free to reach me via eashing68@gmail.com
+
+⚡ Project Experience:
+ETL pipelines, DA, BI, ML
+
 
 
 ## 💻 Tech Stack:
