@@ -10,7 +10,7 @@
 | :--- | :--- | :--- |
 | ETL pipelines| E-Commerce: Python, dbt| https://github.com/Shing-gor/ELT |
 | Big data on cloud service| Different projects: Spark, RDD, DF| https://github.com/Shing-gor/Spark|
-| Datathon| 1st place / 80 teams| https://github.com/Shing-gor/atlassian_datathon2025|
+| Atlassian Datathon 2025| 1st place / 80 teams| https://github.com/Shing-gor/atlassian_datathon2025|
 | DA, BI| IoT Classification: Random Forest, KNN| https://github.com/Shing-gor/classification-cybersecurity |
 | ML | Image Classification: CNN, ResNet | https://github.com/Shing-gor/data9444-hw |
 
