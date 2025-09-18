@@ -1,12 +1,19 @@
 ## 👋 Hi, I’m Eason (he/him)
-🌱 **First place winner at Atlassian Corss-Uni Datathon 2025** \
+🌱 **First place winner** at Atlassian Corss-Uni Datathon 2025 \
 🌱 graduate with Bachelor in Data Science 
 
 ⚡ Looking for **DE, DA, BI** roles in NSW, ACT \
 ⚡ feel free to reach me via eashing68@gmail.com
 
 ⚡ Project Experience:
-ETL pipelines, DA, BI, ML
+| Field | Detail | Link|
+| :--- | :--- | :--- |
+| ETL pipelines| E-Commerce: Python, dbt| https://github.com/Shing-gor/ELT |
+| Big data on cloud service| Different projects: Spark, RDD, DF| https://github.com/Shing-gor/Spark|
+| Datathon| 1st place / 80 teams| https://github.com/Shing-gor/atlassian_datathon2025|
+| DA, BI| IoT Classification: Random Forest, KNN| https://github.com/Shing-gor/classification-cybersecurity |
+| ML | Image Classification: CNN, ResNet | https://github.com/Shing-gor/data9444-hw |
+
 
 
 
