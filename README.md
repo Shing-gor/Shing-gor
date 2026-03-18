@@ -1,18 +1,55 @@
 ## 👋 Hi, I’m Eason (he/him)
-🌱 **First place winner** at Atlassian Corss-Uni Datathon 2025 \
-🌱 graduate with Bachelor in Data Science 
 
-⚡ Looking for **DE, DA, BI** roles in NSW, ACT \
+**Data Analyst · Sydney, Australia · Open to Work**
+
+I turn messy, real-world data into decisions that move the needle. My work spans the full analytics pipeline — from raw data wrangling and ML modelling to business storytelling that non-technical stakeholders actually act on.
+
+Currently targeting roles in **energy, utilities, and infrastructure** (particularly NSW grid & energy transition) while completing my studies at UNSW.
+
+---
+
+## 🏆 Highlight
+
+**🥇 1st Place — Atlassian × DataSoc Datathon 2025** *(80 teams)*
+> Analysed a large-scale SaaS user behaviour dataset with no prescribed outcomes. Built two Random Forest models predicting churn and upgrade likelihood, identified a "leaky bucket" in customer acquisition, and proposed a targeted retention strategy. Judges called it the most commercially viable solution.
+
+---
+
+## 🔨 Projects
+
+| Project | What it answers | Stack | Status |
+|---|---|---|---|
+| [**GridConnection NSW**](https://github.com/Shing-gor) | Where should hyperscalers build AI factories in NSW — and how long will the grid let them wait? | Python · PostGIS · dbt · scikit-learn · Streamlit | 🚧 In progress |
+| [**Atlassian Datathon 2025**](https://github.com/Shing-gor/atlassian_datathon2025) | Which SaaS customers will churn or upgrade — and what should the business do about it? | Python · scikit-learn · Pandas · Seaborn | ✅ Complete · 1st place |
+
+⚡ Looking for **DE, DA, BI** roles across Australia \
 ⚡ feel free to reach me via eashing68@gmail.com
 
-⚡ Project Experience:
+⚡ Other projects:
 | Field | Detail | Link|
 | :--- | :--- | :--- |
-| ETL pipelines| E-Commerce: Python, dbt| https://github.com/Shing-gor/ELT |
-| Big data on cloud service| Different projects: Spark, RDD, DF| https://github.com/Shing-gor/Spark|
-| Atlassian Datathon 2025| 1st place / 80 teams| https://github.com/Shing-gor/atlassian_datathon2025|
+| ETL pipelines| E-Commerce: Python, dbt| exploring |
+| Big data on cloud service| Different projects: Spark, RDD, DF| exploring |
 | DA, BI| IoT Classification: Random Forest, KNN| https://github.com/Shing-gor/classification-cybersecurity |
 | ML | Image Classification: CNN, ResNet | https://github.com/Shing-gor/data9444-hw |
+
+---
+
+## 🛠 Stack
+
+**Languages** · Python · SQL
+
+**Data & ML** · pandas · scikit-learn · geopandas · NumPy · dbt
+
+**Visualisation** · Power BI · Matplotlib · Seaborn · Streamlit
+
+**Infrastructure** · PostgreSQL · PostGIS · Git · GitHub Actions
+
+---
+
+## 📫 Get in touch
+
+[LinkedIn](https://linkedin.com/in/) · eashing68@gmail.com
 
 
 
