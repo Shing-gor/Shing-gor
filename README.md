@@ -1,12 +1,12 @@
 # Hi, I'm Eason 👋
 
-**Data Analyst · Sydney, Australia · Open to Work**
+**Data Analyst · Sydney, Australia · Open to Work** · 📬 eashing68@gmail.com
 
 I turn messy, real-world data into decisions that move the needle. My work spans the full analytics pipeline — from raw data wrangling and ML modelling to business storytelling that non-technical stakeholders actually act on.
 
-Currently targeting **DE · DA · BI** roles across Australia while completing my studies at UNSW, with a focus on energy, utilities, and infrastructure.
+Currently targeting **DE · DA · BI** roles across Australia. Recent interest in energy, utilities, and infrastructure.
 
-📬 eashing68@gmail.com
+
 
 ---
 
@@ -14,8 +14,7 @@ Currently targeting **DE · DA · BI** roles across Australia while completing m
 
 **🥇 1st Place — Atlassian × DataSoc Datathon 2025** *(80 teams)*
 
-> Analysed a large-scale SaaS user behaviour dataset with no prescribed outcomes. Built two Random Forest models predicting churn and upgrade likelihood, identified a "leaky bucket" in customer acquisition, and proposed a targeted retention strategy. Judges called it the most commercially viable solution.
-
+> Presented 18 months of large-scale SaaS user behaviour dataset. Built ML models predicting churn and upgrade likelihood, along with my teammate's propose in marketing on the highest-LTV industries, trigger customer success outreach in customer acquisition. Atlassian judges awarded 1st place across 80 teams, citing a rare combination of statistical rigour and a strategy the business could act on.
 ---
 
 ## 🔨 Projects
